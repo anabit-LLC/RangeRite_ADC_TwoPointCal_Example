@@ -12,7 +12,7 @@ readings together and allows you to enter data for a two point calibration to gr
 
 RangeRite ADC Dev Board Link: https://anabit.co/products/rangerite-18-bit-adc
 
-Two point calibration tutorial video link: 
+Two point calibration tutorial video link: https://youtu.be/B3f0NKTJwRY
 
 This example sketch demonstrates how to set the input voltage range and make a single ADC reading
 From Texas Instruments ADS868x 16 bit ADC IC family or the ADS869x 18 bit ADC IC family.
